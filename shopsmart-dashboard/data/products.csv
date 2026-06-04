@@ -1,0 +1,17 @@
+product_id,product_name,category,price,cost
+P001,Laptop,Electronics,899.99,475.09
+P002,Headphones,Electronics,79.99,32.4
+P003,Smartwatch,Electronics,199.99,91.0
+P004,Tablet,Electronics,449.99,200.08
+P005,T-Shirt,Clothing,19.99,10.94
+P006,Jeans,Clothing,49.99,26.76
+P007,Jacket,Clothing,89.99,52.05
+P008,Sneakers,Clothing,69.99,29.21
+P009,Coffee Maker,Home,59.99,29.06
+P010,Blender,Home,39.99,16.23
+P011,Vacuum,Home,129.99,57.68
+P012,Lamp,Home,34.99,17.53
+P013,Protein Bar,Food,2.99,1.21
+P014,Coffee Beans,Food,14.99,6.59
+P015,Olive Oil,Food,9.99,5.29
+P016,Granola,Food,6.99,3.56
